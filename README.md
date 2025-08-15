@@ -1,1 +1,1 @@
-# Customer-Segmentation-for-Personalized-Banking-Services
+Customer Segmentation for Personalized Banking Services
